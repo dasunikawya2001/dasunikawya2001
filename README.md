@@ -32,17 +32,29 @@ Here are some ideas to get you started:
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "" width = 50px></picture> **About me**
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+  
+  <!-- Left: Bullet Points -->
+  <div style="flex: 1;">
+    <ul>
+      <li>A passionate Self-taught Full-Stack developer</li>
+      <li>Currently learning Cloud Computing by Self</li>
+      <li>I’m currently open for an Internship, this is 
+        <a href="https://read.cv/0xabdulkhalid" target="_blank">my resume</a>
+      </li>
+    </ul>
+  </div>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+  <!-- Right: Profile Image -->
+  <div>
+    <img src="https://github.com/user-attachments/assets/4006827d-ce6a-4ed9-b70a-eb5b64a86d05" 
+         alt="profile image" width="250px" style="border-radius: 10px;">
+  </div>
 
-<br>
+</div>
 
-- A passionate Self-taught Full-Stack developer
-- Currently learning Cloud Computing by Self
-- I’m currently open for an Internship, this is [my resume](https://read.cv/0xabdulkhalid)
 
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
